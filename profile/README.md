@@ -4,6 +4,12 @@ Bem-vindo ao repositório da organização "IFSP Cubatão - Informática"!
 
 Este espaço foi criado pelo grêmio de 2023-2024 do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) - Campus Cubatão, com o objetivo de reunir e expandir os conhecimentos abordados durante o curso técnico de informática.
 
+### Administradores
+
+- [Perfil IFSPCBT](https://github.com/ifspcbt)
+- [Diretor de Informática](https://github.com/oproprioleonardo)
+- [Vice-diretor de Informática](https://github.com/gustavofg1pontes)
+
 ## Sobre o Curso Técnico de Informática
 
 O curso técnico de informática do IFSP Cubatão visa formar profissionais capacitados para atuar no mercado de tecnologia da informação. Durante o curso, os alunos adquirem conhecimentos teóricos e práticos em áreas como programação, redes de computadores, bancos de dados, desenvolvimento web, entre outros.
@@ -29,7 +35,7 @@ Para utilizar este repositório, basta navegar pelas pastas e encontrar os mater
 
 Se você tiver alguma dúvida, sugestão ou problema relacionado a este repositório, sinta-se à vontade para entrar em contato com a equipe do grêmio:
 
-- Email: [glecmcbt@gmail.com](mailto:glecmcbt@gmail.com)
+- E-mail: [ifspcbt.informatica@gmail.com](mailto:glecmcbt@gmail.com) - também respondemos dúvidas de programação!
 - Instagram: [@glecmcbt](https://www.instagram.com/glecmcbt/)
 
 Esperamos que este repositório seja útil para sua jornada no curso técnico de informática do IFSP Cubatão!
