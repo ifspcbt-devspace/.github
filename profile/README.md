@@ -18,7 +18,7 @@ O curso técnico de informática do IFSP Cubatão visa formar profissionais capa
 
 Está organizado de forma a facilitar o acesso e a navegação pelos materiais e projetos desenvolvidos pelos alunos do curso técnico de informática. Aqui você encontrará:
 
- - materiais utilizados em sala de aula, como slides, códigos de exemplo, exercícios e outros recursos didáticos;
+ - materiais utilizados em sala de aula, códigos de exemplo, exercícios e outros recursos didáticos;
  - projetos desenvolvidos pelos alunos, sejam eles individuais ou em grupo. Cada projeto possui sua própria pasta e documentação;
  - diversos recursos úteis para os estudantes, como bibliotecas, frameworks, links para sites e ferramentas relevantes;
  - eventos realizados pela comunidade, como hackathons, palestras, workshops e encontros técnicos.
