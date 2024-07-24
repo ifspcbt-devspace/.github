@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório da organização "IFSP Cubatão - Informática"!
 
-Este espaço foi criado pelo grêmio de 2023-2024 do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) - Campus Cubatão, com o objetivo de reunir e expandir os conhecimentos abordados durante o curso técnico de informática.
+Este espaço foi criado pelo grêmio de 2023-2025 do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) - Campus Cubatão, com o objetivo de reunir e expandir os conhecimentos abordados durante o curso técnico de informática.
 
 ### Administradores
 
