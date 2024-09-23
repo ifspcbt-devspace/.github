@@ -42,7 +42,7 @@ Se você apertar em algum dos repositórios, exemplo [volei117](https://github.c
 Se você tiver alguma dúvida, sugestão ou problema relacionado a devspace, sinta-se à vontade para entrar em contato com a equipe do grêmio:
 
 - E-mail: [ifspcbt.informatica@gmail.com](mailto:glecmcbt@gmail.com) - também respondemos dúvidas de programação!
-- Instagram: [@glecmcbt](https://www.instagram.com/glecmcbt/)
+- Instagram: [@glecmcbt](https://www.instagram.com/glecmcbt/), [@_oleonardosilva](https://www.instagram.com/_oleonardosilva/) e [@pgusand](https://www.instagram.com/pgusand/).
 
 Esperamos que este repositório seja útil para sua jornada no curso técnico de informática do IFSP Cubatão!
 
