@@ -31,13 +31,8 @@ Basta navegar pelas pastas (repositórios) e encontrar os materiais de seu inter
 
 Encorajamos todos os alunos a contribuir com a comunidade, seja adicionando materiais das aulas, compartilhando projetos pessoais ou sugerindo novos recursos.
 
-- Para contribuir em projetos dos alunos, basta criar um *fork* do repositório do aluno e **não da organização**, fazer suas modificações e enviar um *pull request*. <br>
-- Também encorajamos dar estrela, feedback etc diretamente no repositório **do aluno** e não nos forks **da organização**.
-- A organização possui seus próprios projetos em que também encorajamos a contribuição.
-
-#### Mas como ir para o repositório do aluno?
-
-Se você apertar em algum dos repositórios, exemplo [Tickets-API](https://github.com/ifspcbt-devspace/Tickets-API), vai verificar que em algum canto da tela, geralmente no topo, vai estar escrito "forked from" ou em português "bifurcado de" e, então, lá você poderá ir para o repositório de **origem**.
+- Para contribuir em projetos, basta criar um *fork* do repositório, fazer suas modificações e enviar um *pull request*. <br>
+- Também encorajamos dar estrela, feedback etc nos nossos repositórios.
 
 ## Contato
 
