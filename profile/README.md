@@ -22,8 +22,6 @@ Está organizado de forma a facilitar o acesso e a navegação pelos materiais e
 
  - materiais utilizados em sala de aula, códigos de exemplo, exercícios e outros recursos didáticos;
  - projetos desenvolvidos pelos alunos, sejam eles individuais ou em grupo. Cada projeto possui sua própria pasta e documentação;
- - diversos recursos úteis para os estudantes, como bibliotecas, frameworks, links para sites e ferramentas relevantes;
- - eventos realizados pela comunidade, como hackathons, palestras, workshops e encontros técnicos.
 
 ## Como Utilizar
 
@@ -35,9 +33,11 @@ Encorajamos todos os alunos a contribuir com a comunidade, seja adicionando mate
 
 - Para contribuir em projetos dos alunos, basta criar um *fork* do repositório do aluno e **não da organização**, fazer suas modificações e enviar um *pull request*. <br>
 - Também encorajamos dar estrela, feedback etc diretamente no repositório **do aluno** e não nos forks **da organização**.
+- A organização possui seus próprios projetos em que também encorajamos a contribuição.
 
 #### Mas como ir para o repositório do aluno?
-Se você apertar em algum dos repositórios, exemplo [volei117](https://github.com/ifspcbt-devspace/volei117), vai verificar que em algum canto da tela, geralmente no topo, vai estar escrito "forked from" ou em português "bifurcado de" e, então, lá você poderá ir para o repositório de **origem**.
+
+Se você apertar em algum dos repositórios, exemplo [Tickets-API](https://github.com/ifspcbt-devspace/Tickets-API), vai verificar que em algum canto da tela, geralmente no topo, vai estar escrito "forked from" ou em português "bifurcado de" e, então, lá você poderá ir para o repositório de **origem**.
 
 ## Contato
 
@@ -46,6 +46,6 @@ Se você tiver alguma dúvida, sugestão ou problema relacionado a devspace, sin
 - E-mail: [ifspcbt.informatica@gmail.com](mailto:glecmcbt@gmail.com) - também respondemos dúvidas de programação!
 - Instagram: [@glecmcbt](https://www.instagram.com/glecmcbt/), [@_oleonardosilva](https://www.instagram.com/_oleonardosilva/) e [@pgusand](https://www.instagram.com/pgusand/).
 
-Esperamos que este repositório seja útil para sua jornada no curso técnico de informática do IFSP Cubatão!
+Esperamos que este repositório seja útil para sua jornada!
 
 **Vamos aprender e crescer juntos!**
