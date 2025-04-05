@@ -4,8 +4,6 @@ Bem-vindo ao repositório da organização "IFSP Cubatão - Informática"!
 
 Este espaço foi criado pelo grêmio de 2023-2025 do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) - Campus Cubatão, com o objetivo de reunir e expandir os conhecimentos abordados durante o curso técnico de informática.
 
-### Discord: [Buteco da DevSpace](https://discord.gg/z8ycnAztUj)
-
 ### Administradores
 
 - [Perfil IFSPCBT](https://github.com/ifspcbt)
@@ -18,10 +16,7 @@ O curso técnico de informática do IFSP Cubatão visa formar profissionais capa
 
 ## Sobre a Organização
 
-Está organizado de forma a facilitar o acesso e a navegação pelos materiais e projetos desenvolvidos pelos alunos do curso técnico de informática. Aqui você encontrará:
-
- - materiais utilizados em sala de aula, códigos de exemplo, exercícios e outros recursos didáticos;
- - projetos desenvolvidos pelos alunos, sejam eles individuais ou em grupo. Cada projeto possui sua própria pasta e documentação;
+Está organizado de forma a facilitar o acesso e a navegação pelos materiais e projetos desenvolvidos pelos alunos do curso técnico de informática. Aqui você encontrará projetos desenvolvidos pelos alunos, sejam eles individuais ou em grupo.
 
 ## Como Utilizar
 
@@ -36,11 +31,11 @@ Encorajamos todos os alunos a contribuir com a comunidade, seja adicionando mate
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou problema relacionado a devspace, sinta-se à vontade para entrar em contato com a equipe do grêmio:
+Se você tiver alguma dúvida, sugestão ou problema, sinta-se à vontade para entrar em contato com os administradores:
 
 - E-mail: [ifspcbt.informatica@gmail.com](mailto:glecmcbt@gmail.com) - também respondemos dúvidas de programação!
 - Instagram: [@glecmcbt](https://www.instagram.com/glecmcbt/), [@_oleonardosilva](https://www.instagram.com/_oleonardosilva/) e [@pgusand](https://www.instagram.com/pgusand/).
+- Discord: [Magistrados](https://discord.gg/z8ycnAztUj)
 
-Esperamos que este repositório seja útil para sua jornada!
 
 **Vamos aprender e crescer juntos!**
