@@ -9,8 +9,8 @@ Este espaço foi criado pelo grêmio de 2023-2025 do Instituto Federal de Educa�
 ### Administradores
 
 - [Perfil IFSPCBT](https://github.com/ifspcbt)
-- [Diretor de Informática](https://github.com/oproprioleonardo)
-- [Vice-diretor de Informática](https://github.com/gustavofg1pontes)
+- [Leonardo](https://github.com/oproprioleonardo)
+- [Gustavo](https://github.com/gustavofg1pontes)
 
 ## Sobre o Curso Técnico de Informática
 
