@@ -33,9 +33,9 @@ Encorajamos todos os alunos a contribuir com a comunidade, seja adicionando mate
 
 Se você tiver alguma dúvida, sugestão ou problema, sinta-se à vontade para entrar em contato com os administradores:
 
-- E-mail: [ifspcbt.informatica@gmail.com](mailto:glecmcbt@gmail.com) - também respondemos dúvidas de programação!
+- E-mail: [ifspcbt.informatica@gmail.com](mailto:ifspcbt.informatica@gmail.com) - também respondemos dúvidas de programação!
 - Instagram: [@glecmcbt](https://www.instagram.com/glecmcbt/), [@_oleonardosilva](https://www.instagram.com/_oleonardosilva/) e [@pgusand](https://www.instagram.com/pgusand/).
-- Discord: [Magistrados](https://discord.gg/z8ycnAztUj)
+- Discord: [Servidor](https://discord.gg/z8ycnAztUj)
 
 
 **Vamos aprender e crescer juntos!**
