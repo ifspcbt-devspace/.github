@@ -7,8 +7,9 @@ Este espaço foi criado pelo grêmio de 2023-2025 do Instituto Federal de Educa�
 ### Administradores
 
 - [Perfil IFSPCBT](https://github.com/ifspcbt)
-- [Leonardo](https://github.com/oproprioleonardo)
+- [Leonardo](https://github.com/oleonardosilva)
 - [Gustavo](https://github.com/gustavofg1pontes)
+- [Daniel](https://github.com/DanielArthurFrei)
 
 ## Sobre o Curso Técnico de Informática
 
@@ -35,7 +36,7 @@ Se você tiver alguma dúvida, sugestão ou problema, sinta-se à vontade para e
 
 - E-mail: [ifspcbt.informatica@gmail.com](mailto:ifspcbt.informatica@gmail.com) - também respondemos dúvidas de programação!
 - Instagram: [@glecmcbt](https://www.instagram.com/glecmcbt/), [@_oleonardosilva](https://www.instagram.com/_oleonardosilva/) e [@pgusand](https://www.instagram.com/pgusand/).
-- Discord: [Servidor](https://discord.gg/z8ycnAztUj)
+- Discord: [resenha](https://discord.gg/z8ycnAztUj)
 
 
 **Vamos aprender e crescer juntos!**
