@@ -39,5 +39,5 @@ Se você tiver alguma dúvida, sugestão ou problema, sinta-se à vontade para e
 - Discord: [resenha](https://discord.gg/z8ycnAztUj)
 
 
-**Vamos aprender e crescer juntos!**
+**Vamos aprender e crescer juntos!** <br><br>
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/oleonardosilva)
