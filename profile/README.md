@@ -40,3 +40,4 @@ Se você tiver alguma dúvida, sugestão ou problema, sinta-se à vontade para e
 
 
 **Vamos aprender e crescer juntos!**
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/oleonardosilva)
